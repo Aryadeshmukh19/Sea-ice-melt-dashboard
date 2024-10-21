@@ -1,4 +1,4 @@
-# :snowflake: Sea Ice melt dashboard template
+# :snowflake: Sea Ice melt dashboard 
 
 A simple Streamlit app showing the ice melt record over 50 years of different seas worldwide.
 
