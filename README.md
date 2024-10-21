@@ -1,6 +1,6 @@
 # :snowflake: Sea Ice melt dashboard 
 
-A simple Streamlit app showing the ice melt record over 50 years of different seas worldwide.
+A Streamlit app showing the ice melt record over 50 years of different seas worldwide providing statistical data for analysis and prediction.
 
 ### How to run it on your own machine
 
