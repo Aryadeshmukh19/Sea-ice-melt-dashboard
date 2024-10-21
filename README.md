@@ -2,8 +2,6 @@
 
 A simple Streamlit app showing the ice melt record over 50 years of different seas worldwide.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
-
 ### How to run it on your own machine
 
 1. Install the requirements
